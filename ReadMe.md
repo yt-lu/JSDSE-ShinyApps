@@ -1,4 +1,4 @@
-This folder contains the supplementary materials for the article Web-Based Applets for Facilitating Simulations and Generating Randomized Data Sets for Teaching Statistics submitted to Journal of Statistics and Data Science Education. The password for reseting applet data is JSDSE.
+This folder contains the supplementary materials for the article Web-Based Applets for Facilitating Simulations and Generating Randomized Data Sets for Teaching Statistics submitted to Journal of Statistics and Data Science Education. The password for reseting applet data is **JSDSE**.
 
 	1.	The folder Guessing-a-Quiz contains the R code for the applet in Section 2.1. The applet is available at https://shiny.yuanting.lu/JSDSE-quiz/
 	2.	The folder Envelopes contains the R code for the applet in Section 2.2.The applet is available at https://shiny.yuanting.lu/JSDSE-envelopes/
